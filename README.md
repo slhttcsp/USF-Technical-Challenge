@@ -116,7 +116,7 @@ This project provides several alternative deployment options to suit different u
   - Limited computing resources and storage
   - Payload size limitations (6MB)
 
-### 3. AWS SageMaker Endpoint (`alternative_deployment/sagemaker/`)
+### 3. AWS SageMaker Endpoint (`alternative_deployment/sagemaker_endpoint/`)
 
 - Managed deployment using AWS SageMaker endpoints
 - Suitable when:
