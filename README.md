@@ -6,7 +6,7 @@ This project is designed to deploy a machine learning model, run unit tests, and
 
 ## Model Training
 - The training script is located in the `model_train` directory.
-- Download the dataset from [here](https://www.kaggle.com/c/demand-forecasting-kernels-only/data) and place your dataset files in the `input` directory.
+- Create  `input` directory under project folder. Download the dataset from [here](https://www.kaggle.com/c/demand-forecasting-kernels-only/data) and place dataset files in the `input` directory.
 - The trained model is saved in the `model_deploy` directory as `model.joblib`.
 
 
